@@ -1,0 +1,1 @@
+# pantera-basic-spot
